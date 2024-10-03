@@ -21,10 +21,9 @@ I'm a motivated junior frontend developer with a passion for building responsive
 - Sublime Text
 
 
-
 *Projects*
-- https://github.com/your-username/project-1
-- https://github.com/your-username/project-2
+- https://github.com/Christ-Save/project-1
+- https://github.com/Christ-Save/project-2
 
 
 *Learning & Goals*
